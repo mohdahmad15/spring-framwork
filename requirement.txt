@@ -3,3 +3,5 @@ Emoji
 Type option
 colurs
 valbrant
+Dark mode
+video calling
