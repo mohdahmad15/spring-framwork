@@ -5,3 +5,6 @@ colurs
 valbrant
 Dark mode
 video calling
+pyment option
+withdraw pyment
+check transcation
